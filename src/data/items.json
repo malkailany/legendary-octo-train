@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "price": 18.99,
+    "item_name": "Third World Cop"
+  }, {
+    "id": 2,
+    "price": 19.99,
+    "item_name": "Crossing the Bridge"
+  }, {
+    "id": 3,
+    "price": 18.99,
+    "item_name": "Gabrielle"
+  }, {
+    "id": 4,
+    "price": 8.99,
+    "item_name": "The Righteous Thief"
+  }, {
+    "id": 5,
+    "price": 2.99,
+    "item_name": "Candidate, The (Kandidaten)"
+  }]
